@@ -1,10 +1,8 @@
----
-title: "tunasync 上手指南"
+# tunasync 上手指南
+
 date: 2016-10-31 00:50:00
 
----
-
-[tunasync](https://github.com/tuna/tunasync) 是[清华大学TUNA镜像源](https://mirrors.tuna.tsinghua.edu.cn)目前使用的镜像方案。
+[tunasync](https://github.com/tuna/tunasync) 是[清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn)目前使用的镜像方案。
 
 本文试图在五分钟之内让你搭建一个可以测试的tunasync基本功能。
 
